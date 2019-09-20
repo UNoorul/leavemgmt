@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>::Leave Management::</title>
+<title>::My Leave Management::</title>
 <link rel="stylesheet" href="style.css">
 <style>
 footer {
